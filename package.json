@@ -1,0 +1,11 @@
+{
+  "name": "khan-utils",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "requirejs": "*"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  }
+}

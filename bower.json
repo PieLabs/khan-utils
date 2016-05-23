@@ -1,0 +1,9 @@
+{
+  "name" : "khan-utils",
+  "version" : "1.0.0",
+  "main" : "dist/index.js",
+  "dependencies": {
+    "jquery" : "~2.2.3",
+    "raphael": "~2.2.0"
+  }
+}
